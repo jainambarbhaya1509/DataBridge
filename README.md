@@ -125,7 +125,3 @@ Thank you for supporting this project!
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Let me know if you'd like this in a downloadable file or if you want to customize it further (e.g., add badges, images, or command line flags).
